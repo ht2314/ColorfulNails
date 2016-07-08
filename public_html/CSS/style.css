@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-Jun-2016, 13:57:27
+    Author     : Hung Tran
+*/
+
+
+#map {
+    height:400px;
+    width:100%;
+    background-color: #CCC;
+}
+
+#prices table tr td:first-child {
+    width:100%
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      height:40em;
+      margin: auto;
+  }
+
+  
+  .white-bckgrnd{
+      background-color: white;
+  }
+  .main-pink {
+      color: #ff66ff;
+  }
+  
+  .jumbotron > .main-pink {
+      color: #ff66cc;
+  }
+  
+  .main-grey{
+      background-color:  #222222;
+  }
+  
+  .white-font{
+      color:white;
+  }
+  
+  .mgn-lft-col-titles{
+      margin-left:8.33%;
+  }
+  
+.mg-top-1{
+      margin-top:1%;
+  }
+.mg-top-2{
+      margin-top:2%;
+  }
+  
+.mg-top-3{
+      margin-top:3%;
+  }
+  
+.mg-top-5{
+      margin-top:5%;
+  }
+  
+  .mg-top-10{
+      margin-top:10%;
+  }
+  
+  .jumbo-size{
+      height:25em;
+  }
